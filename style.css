@@ -105,3 +105,46 @@ p {
     background-color: white;
 
 }
+
+hr {
+    width: 50%;
+
+}
+
+#donate-plan {
+    text-align: center;
+}
+
+.donate-options {
+    width: 80%;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.option h3 {
+    font-weight: bold;
+}
+
+.option {
+    width: 25%;
+    padding: 5% 2%;
+    text-align: start;
+}
+
+.option img {
+    padding: 0 0 30px 0;
+}
+
+#bg-color1 {
+    background-color: #ebf3f8;
+}
+
+#bg-color2 {
+    background-color: #eedada;
+}
+
+#bg-color3 {
+    background-color: #e0d4b3;
+}
