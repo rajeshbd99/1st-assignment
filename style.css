@@ -66,10 +66,42 @@ p {
     display: inline-block;
     margin-top: 25px;
     text-decoration: none;
+    font-size: 15px;
+    font-weight: 800;
     padding: 10px 25px;
     background-color: blue;
     color: white;
     border-radius: 5px;
-    font-size: 15px;
+}
+
+#donation {
+    text-align: center;
+}
+
+.donate-dollar {
+    display: flex;
+    width: 70%;
+    margin: 50px auto;
+    justify-content: space-evenly;
+}
+
+.text {
+    color: grey;
+}
+
+.donate-dollar p {
+    width: 20%;
+    padding: 50px 0;
+    background-color: white;
     font-weight: 800;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+#style-dollar {
+    color: skyblue;
+    border: 5px solid skyblue;
+    background-color: white;
+
 }
