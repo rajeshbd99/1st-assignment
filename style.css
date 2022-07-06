@@ -14,15 +14,12 @@ h1 {
     font-weight: 800;
     padding: 10px 0;
     color: black;
-
-
 }
 
 p {
     font-size: 15px;
     padding: 5px 0;
     margin: 0;
-
 }
 
 .overlay {
@@ -34,7 +31,6 @@ p {
     background-color: rgba(30, 29, 29, 0.689);
     text-align: center;
     padding-top: 130px;
-
 }
 
 #head {
@@ -46,8 +42,6 @@ p {
     background-size: cover;
     overflow: hidden;
     position: relative;
-
-
 }
 
 #head h1 {
@@ -55,8 +49,6 @@ p {
     padding: 0 350px;
     padding-bottom: 20px;
 }
-
-
 
 #head p {
     color: white;
@@ -96,22 +88,19 @@ p {
     font-weight: 800;
     font-size: 40px;
     text-align: center;
-
 }
 
 #style-dollar {
     color: skyblue;
     border: 5px solid skyblue;
     background-color: white;
-
 }
 
 hr {
     width: 50%;
-
 }
 
-#donate-plan {
+#our-donate {
     text-align: center;
 }
 
@@ -120,7 +109,6 @@ hr {
     margin: 40px auto;
     display: flex;
     justify-content: space-between;
-
 }
 
 .option h3 {
@@ -173,7 +161,6 @@ hr {
     color: white;
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
-
 }
 
 #get-update div input {
@@ -184,4 +171,19 @@ hr {
     background-color: rgb(205, 203, 203);
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
+}
+
+footer {
+    background-color: black;
+    text-align: center;
+    padding: 50px 0;
+}
+
+footer p {
+    color: white;
+}
+
+footer h2 {
+    color: skyblue;
+    margin-bottom: 20px;
 }
